@@ -6,7 +6,7 @@
 ## 作業環境
 
 * 64 ビット版 Google Chrome
-* 64 ビット版 Windows 10
+* 64 ビット版 Windows 11
 
 ## 補足説明
 
